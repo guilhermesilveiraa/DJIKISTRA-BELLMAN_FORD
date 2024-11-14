@@ -1,4 +1,4 @@
-# Repositório para estudos em grafos ⚪->⚪->⚪
+# Repositório para estudos em grafos ⚪
 
 Este repositório tem por objetivo firmar meus conhecimentos na matéria de grafos. Estou estudando pelo livro Projeto de Algoritmos do Nívio Ziviani
 
