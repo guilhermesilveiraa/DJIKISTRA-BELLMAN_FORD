@@ -36,7 +36,6 @@ public class Grafo {
 
         for (Vertice u : vertices) {
             r+= String.format("%s (%d,%d) -> ", u.getId(), u.getX(), u.getY());
-            //r += u.getId() + " " + u.getX() +" -> ";
 
             for (Aresta e : u.getArestas()) {
                 Vertice v = e.getDestino();
